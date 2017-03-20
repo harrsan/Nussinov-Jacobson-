@@ -1,6 +1,4 @@
-#!/usr/bin/python
-# This is the python code for the Nussinov-Jacobson algorithm,
-# the way we wrote it during class on April 4, 2016.
+
 
 '''Goal: to find the optimal number of base pairs given an RNA sequence
 Input: an RNA sequence
